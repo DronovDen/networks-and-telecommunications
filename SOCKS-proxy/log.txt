@@ -1,0 +1,783 @@
+2022-11-17 10:48:48.003 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54430
+2022-11-17 10:48:48.011 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: im.vk.com
+2022-11-17 10:48:48.331 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - im.vk.com. resolved
+2022-11-17 10:48:48.346 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54432
+2022-11-17 10:48:48.346 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: ssl.gstatic.com
+2022-11-17 10:48:48.349 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - ssl.gstatic.com. resolved
+2022-11-17 10:48:48.879 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54434
+2022-11-17 10:48:48.879 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: play.google.com
+2022-11-17 10:48:48.905 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - play.google.com. resolved
+2022-11-17 10:48:48.998 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54436
+2022-11-17 10:48:48.998 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: clients6.google.com
+2022-11-17 10:48:49.022 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - clients6.google.com. resolved
+2022-11-17 10:48:49.567 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54438
+2022-11-17 10:48:51.959 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54440
+2022-11-17 10:48:51.961 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: p23-caldav.icloud.com
+2022-11-17 10:48:53.061 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54441
+2022-11-17 10:48:53.063 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: mc.yandex.ru
+2022-11-17 10:48:53.565 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - mc.yandex.ru. resolved
+2022-11-17 10:48:56.387 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54443
+2022-11-17 10:48:56.388 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: queuev4.vk.com
+2022-11-17 10:48:56.713 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - queuev4.vk.com. resolved
+2022-11-17 10:49:00.088 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54445
+2022-11-17 10:49:00.089 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: oracleplsql.ru
+2022-11-17 10:49:00.362 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - oracleplsql.ru. resolved
+2022-11-17 10:49:00.927 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54447
+2022-11-17 10:49:00.929 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54448
+2022-11-17 10:49:00.930 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: fonts.gstatic.com
+2022-11-17 10:49:00.931 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54449
+2022-11-17 10:49:00.931 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: cse.google.com
+2022-11-17 10:49:00.931 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: c.hit.ua
+2022-11-17 10:49:00.943 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54450
+2022-11-17 10:49:00.944 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: signaler-pa.clients6.google.com
+2022-11-17 10:49:01.007 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - fonts.gstatic.com. resolved
+2022-11-17 10:49:01.012 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - c.hit.ua. resolved
+2022-11-17 10:49:01.013 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - cse.google.com. resolved
+2022-11-17 10:49:01.021 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - signaler-pa.clients6.google.com. resolved
+2022-11-17 10:49:01.974 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54455
+2022-11-17 10:49:01.975 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: clients1.google.com
+2022-11-17 10:49:02.020 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - clients1.google.com. resolved
+2022-11-17 10:49:04.931 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54457
+2022-11-17 10:49:04.932 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: aax-dtb-cf.amazon-adsystem.com
+2022-11-17 10:49:04.954 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - aax-dtb-cf.amazon-adsystem.com. resolved
+2022-11-17 10:49:05.056 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54458
+2022-11-17 10:49:05.056 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54459
+2022-11-17 10:49:05.056 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54460
+2022-11-17 10:49:05.057 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54461
+2022-11-17 10:49:05.057 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54462
+2022-11-17 10:49:05.057 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: c.4dex.io
+2022-11-17 10:49:05.058 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54463
+2022-11-17 10:49:05.058 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: researchgate-d.openx.net
+2022-11-17 10:49:05.059 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: mp.4dex.io
+2022-11-17 10:49:05.059 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: hbopenbid.pubmatic.com
+2022-11-17 10:49:05.059 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: tlx.3lift.com
+2022-11-17 10:49:05.060 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: htlb.casalemedia.com
+2022-11-17 10:49:05.080 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - researchgate-d.openx.net. resolved
+2022-11-17 10:49:05.081 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - mp.4dex.io. resolved
+2022-11-17 10:49:05.082 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - htlb.casalemedia.com. resolved
+2022-11-17 10:49:05.135 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - c.4dex.io. resolved
+2022-11-17 10:49:05.136 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - tlx.3lift.com. resolved
+2022-11-17 10:49:05.163 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - hbopenbid.pubmatic.com. resolved
+2022-11-17 10:49:05.243 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54471
+2022-11-17 10:49:05.243 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: ib.adnxs.com
+2022-11-17 10:49:05.266 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - ib.adnxs.com. resolved
+2022-11-17 10:49:05.745 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54473
+2022-11-17 10:49:05.746 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: www.researchgate.net
+2022-11-17 10:49:05.768 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - www.researchgate.net. resolved
+2022-11-17 10:49:06.089 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54475
+2022-11-17 10:49:06.090 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: i.ytimg.com
+2022-11-17 10:49:06.114 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - i.ytimg.com. resolved
+2022-11-17 10:49:06.269 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54477
+2022-11-17 10:49:06.270 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: ocsp.pki.goog
+2022-11-17 10:49:06.302 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - ocsp.pki.goog. resolved
+2022-11-17 10:49:06.969 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54479
+2022-11-17 10:49:06.972 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: www.youtube.com
+2022-11-17 10:49:07.341 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54480
+2022-11-17 10:49:07.341 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: securepubads.g.doubleclick.net
+2022-11-17 10:49:07.508 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - securepubads.g.doubleclick.net. resolved
+2022-11-17 10:49:08.058 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54482
+2022-11-17 10:49:08.059 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: t.pubmatic.com
+2022-11-17 10:49:08.105 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - t.pubmatic.com. resolved
+2022-11-17 10:49:08.531 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54484
+2022-11-17 10:49:08.531 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: googleads.g.doubleclick.net
+2022-11-17 10:49:08.559 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - googleads.g.doubleclick.net. resolved
+2022-11-17 10:49:09.084 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54486
+2022-11-17 10:49:09.084 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: yt3.ggpht.com
+2022-11-17 10:49:09.105 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - yt3.ggpht.com. resolved
+2022-11-17 10:49:09.228 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:09.229 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:09.236 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54486
+2022-11-17 10:49:09.249 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54488
+2022-11-17 10:49:09.281 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54490
+2022-11-17 10:49:09.281 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: www.youtube.com
+2022-11-17 10:49:09.310 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - www.youtube.com. resolved
+2022-11-17 10:49:09.445 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:09.445 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:09.446 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54488
+2022-11-17 10:49:09.456 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54492
+2022-11-17 10:49:09.550 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:09.551 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:09.551 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54492
+2022-11-17 10:49:09.553 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54494
+2022-11-17 10:49:09.629 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54496
+2022-11-17 10:49:09.629 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: www.gstatic.com
+2022-11-17 10:49:09.650 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - www.gstatic.com. resolved
+2022-11-17 10:49:09.695 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:09.695 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:09.696 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54494
+2022-11-17 10:49:09.698 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54498
+2022-11-17 10:49:09.815 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:09.815 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:09.815 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54498
+2022-11-17 10:49:09.818 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54500
+2022-11-17 10:49:09.828 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54502
+2022-11-17 10:49:09.828 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54503
+2022-11-17 10:49:09.828 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: www.google.com
+2022-11-17 10:49:09.829 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: www.google.ru
+2022-11-17 10:49:09.854 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - www.google.com. resolved
+2022-11-17 10:49:09.855 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - www.google.ru. resolved
+2022-11-17 10:49:09.901 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /[0:0:0:0:0:0:0:1]:54490
+2022-11-17 10:49:09.902 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: youtube-ui.l.google.com./64.233.165.198:443
+2022-11-17 10:49:09.949 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:09.949 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:09.949 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54500
+2022-11-17 10:49:09.953 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54506
+2022-11-17 10:49:10.172 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:10.174 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:10.174 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54506
+2022-11-17 10:49:10.184 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54508
+2022-11-17 10:49:10.273 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:10.274 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:10.275 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54508
+2022-11-17 10:49:10.287 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54510
+2022-11-17 10:49:10.374 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:10.374 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:10.374 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54510
+2022-11-17 10:49:10.377 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54512
+2022-11-17 10:49:10.457 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:10.457 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:10.458 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54512
+2022-11-17 10:49:10.461 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54514
+2022-11-17 10:49:10.581 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:10.581 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:10.581 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54514
+2022-11-17 10:49:10.584 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54516
+2022-11-17 10:49:10.695 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:10.696 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:10.698 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54516
+2022-11-17 10:49:10.708 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54518
+2022-11-17 10:49:10.823 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:10.825 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:10.825 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54518
+2022-11-17 10:49:10.828 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54520
+2022-11-17 10:49:10.952 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:10.953 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:10.953 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54520
+2022-11-17 10:49:10.958 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54522
+2022-11-17 10:49:11.033 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:11.035 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:11.035 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54522
+2022-11-17 10:49:11.042 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54524
+2022-11-17 10:49:11.176 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:11.177 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:11.177 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54524
+2022-11-17 10:49:11.181 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54526
+2022-11-17 10:49:11.269 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:11.269 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:11.269 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54526
+2022-11-17 10:49:11.275 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54528
+2022-11-17 10:49:11.378 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:11.378 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:11.379 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54528
+2022-11-17 10:49:11.866 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54530
+2022-11-17 10:49:11.866 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: rr6---sn-n8v7znz7.googlevideo.com
+2022-11-17 10:49:12.145 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: rr6---sn-n8v7znz7.googlevideo.com
+2022-11-17 10:49:12.191 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - rr6---sn-n8v7znz7.googlevideo.com. resolved
+2022-11-17 10:49:12.219 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - rr6---sn-n8v7znz7.googlevideo.com. resolved
+2022-11-17 10:49:12.220 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54533
+2022-11-17 10:49:12.221 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: jnn-pa.googleapis.com
+2022-11-17 10:49:12.222 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54534
+2022-11-17 10:49:12.222 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: static.doubleclick.net
+2022-11-17 10:49:12.242 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - jnn-pa.googleapis.com. resolved
+2022-11-17 10:49:12.243 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - static.doubleclick.net. resolved
+2022-11-17 10:49:12.394 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /[0:0:0:0:0:0:0:1]:54530
+2022-11-17 10:49:12.394 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: rr6.sn-n8v7znz7.googlevideo.com./74.125.111.214:443
+2022-11-17 10:49:15.879 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /[0:0:0:0:0:0:0:1]:54471
+2022-11-17 10:49:15.879 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: g.geogslb.com./37.252.171.149:443
+2022-11-17 10:49:15.883 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /45.82.66.206:443
+2022-11-17 10:49:15.883 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54445
+2022-11-17 10:49:17.399 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54537
+2022-11-17 10:49:17.584 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:17.584 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:17.585 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54537
+2022-11-17 10:49:17.588 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54539
+2022-11-17 10:49:17.734 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:17.734 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:17.735 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54539
+2022-11-17 10:49:17.740 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54541
+2022-11-17 10:49:17.795 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54543
+2022-11-17 10:49:17.795 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: youtube.com
+2022-11-17 10:49:17.831 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54544
+2022-11-17 10:49:17.832 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: rr1---sn-n8v7kne6.googlevideo.com
+2022-11-17 10:49:17.934 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - youtube.com. resolved
+2022-11-17 10:49:17.934 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - rr1---sn-n8v7kne6.googlevideo.com. resolved
+2022-11-17 10:49:18.033 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:18.034 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:18.034 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54541
+2022-11-17 10:49:18.050 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54547
+2022-11-17 10:49:18.198 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54549
+2022-11-17 10:49:18.225 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:18.225 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:18.225 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54547
+2022-11-17 10:49:18.228 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54551
+2022-11-17 10:49:18.328 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:18.329 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:18.330 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54551
+2022-11-17 10:49:18.335 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54553
+2022-11-17 10:49:18.393 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54555
+2022-11-17 10:49:18.490 [main] ERROR Proxy.run(Proxy.java:58) - java.io.IOException: Broken pipe
+2022-11-17 10:49:18.491 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: /[0:0:0:0:0:0:0:1]:54544
+2022-11-17 10:49:18.492 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: rr1.sn-n8v7kne6.googlevideo.com./74.125.110.209:443
+2022-11-17 10:49:18.515 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:18.515 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:18.515 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54553
+2022-11-17 10:49:18.518 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54557
+2022-11-17 10:49:18.582 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /[0:0:0:0:0:0:0:1]:54555
+2022-11-17 10:49:18.583 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: rr1.sn-n8v7kne6.googlevideo.com./74.125.110.209:443
+2022-11-17 10:49:18.641 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:18.642 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:18.642 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54557
+2022-11-17 10:49:18.653 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54559
+2022-11-17 10:49:18.777 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:18.777 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:18.777 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54559
+2022-11-17 10:49:18.779 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54561
+2022-11-17 10:49:18.853 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:18.853 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:18.854 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54561
+2022-11-17 10:49:18.858 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54563
+2022-11-17 10:49:18.936 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:18.937 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:18.938 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54563
+2022-11-17 10:49:18.950 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54565
+2022-11-17 10:49:19.062 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:19.063 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:19.063 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54565
+2022-11-17 10:49:19.066 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54567
+2022-11-17 10:49:19.232 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:19.232 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:19.233 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54567
+2022-11-17 10:49:19.238 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54569
+2022-11-17 10:49:19.317 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:19.318 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:19.318 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54569
+2022-11-17 10:49:19.321 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54571
+2022-11-17 10:49:19.430 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:19.432 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:19.433 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54571
+2022-11-17 10:49:19.439 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54573
+2022-11-17 10:49:19.605 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:49:19.605 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.165.198:443
+2022-11-17 10:49:19.606 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54573
+2022-11-17 10:49:30.294 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54575
+2022-11-17 10:49:30.294 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: gateway.icloud.com
+2022-11-17 10:49:30.338 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - gateway.icloud.com. resolved
+2022-11-17 10:49:37.939 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54577
+2022-11-17 10:49:42.872 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54579
+2022-11-17 10:49:48.678 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /[0:0:0:0:0:0:0:1]:54577
+2022-11-17 10:49:48.678 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: g.geogslb.com./37.252.171.84:443
+2022-11-17 10:49:50.749 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54581
+2022-11-17 10:49:51.169 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54583
+2022-11-17 10:49:51.170 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: vk.com
+2022-11-17 10:49:51.197 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - vk.com. resolved
+2022-11-17 10:49:55.771 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54597
+2022-11-17 10:49:55.772 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: ogs.google.com
+2022-11-17 10:49:55.802 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - ogs.google.com. resolved
+2022-11-17 10:49:56.485 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54603
+2022-11-17 10:49:56.527 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54605
+2022-11-17 10:49:56.527 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: lh3.googleusercontent.com
+2022-11-17 10:49:56.631 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - lh3.googleusercontent.com. resolved
+2022-11-17 10:49:58.298 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54615
+2022-11-17 10:49:59.452 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54621
+2022-11-17 10:49:59.452 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: stats.vk-portal.net
+2022-11-17 10:49:59.515 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - stats.vk-portal.net. resolved
+2022-11-17 10:50:01.622 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /[0:0:0:0:0:0:0:1]:54575
+2022-11-17 10:50:01.622 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: gateway.fe.apple-dns.net./17.248.172.237:443
+2022-11-17 10:50:02.319 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54635
+2022-11-17 10:50:02.320 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54636
+2022-11-17 10:50:03.442 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /[0:0:0:0:0:0:0:1]:54635
+2022-11-17 10:50:03.442 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: youtube-ui.l.google.com./74.125.205.198:443
+2022-11-17 10:50:03.553 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54643
+2022-11-17 10:50:03.568 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54645
+2022-11-17 10:50:03.578 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: fonts.googleapis.com
+2022-11-17 10:50:03.608 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - fonts.googleapis.com. resolved
+2022-11-17 10:50:04.388 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54651
+2022-11-17 10:50:05.819 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54657
+2022-11-17 10:50:06.423 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /[0:0:0:0:0:0:0:1]:54549
+2022-11-17 10:50:06.444 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: pki-goog.l.google.com./74.125.131.94:80
+2022-11-17 10:50:06.445 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /[0:0:0:0:0:0:0:1]:54477
+2022-11-17 10:50:06.445 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: pki-goog.l.google.com./74.125.131.94:80
+2022-11-17 10:50:07.066 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /[0:0:0:0:0:0:0:1]:54479
+2022-11-17 10:50:07.069 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: youtube-ui.l.google.com./74.125.205.198:443
+2022-11-17 10:50:08.018 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54672
+2022-11-17 10:50:08.018 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: content-autofill.googleapis.com
+2022-11-17 10:50:08.038 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - content-autofill.googleapis.com. resolved
+2022-11-17 10:50:08.238 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54674
+2022-11-17 10:50:10.365 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54684
+2022-11-17 10:50:11.119 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54690
+2022-11-17 10:50:11.123 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54692
+2022-11-17 10:50:11.124 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54694
+2022-11-17 10:50:11.128 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54696
+2022-11-17 10:50:11.130 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54698
+2022-11-17 10:50:11.132 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54699
+2022-11-17 10:50:11.132 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54701
+2022-11-17 10:50:11.133 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: safebrowsing.googleapis.com
+2022-11-17 10:50:11.156 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - safebrowsing.googleapis.com. resolved
+2022-11-17 10:50:11.286 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:11.286 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:11.286 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54694
+2022-11-17 10:50:11.287 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:11.287 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:11.310 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54699
+2022-11-17 10:50:11.310 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:11.310 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:11.310 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54698
+2022-11-17 10:50:11.311 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54704
+2022-11-17 10:50:11.311 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:11.311 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:11.311 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54690
+2022-11-17 10:50:11.312 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:11.312 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:11.312 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54696
+2022-11-17 10:50:11.312 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:11.312 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:11.313 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54692
+2022-11-17 10:50:11.313 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54705
+2022-11-17 10:50:11.314 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54706
+2022-11-17 10:50:11.314 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54707
+2022-11-17 10:50:11.315 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54708
+2022-11-17 10:50:11.315 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54709
+2022-11-17 10:50:11.435 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:11.436 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:11.436 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54709
+2022-11-17 10:50:11.437 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:11.437 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:11.437 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54705
+2022-11-17 10:50:11.438 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:11.439 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:11.441 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54704
+2022-11-17 10:50:11.442 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54716
+2022-11-17 10:50:11.443 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:11.443 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:11.443 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54708
+2022-11-17 10:50:11.443 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:11.443 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:11.444 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54707
+2022-11-17 10:50:11.444 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:11.444 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:11.444 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54706
+2022-11-17 10:50:11.558 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:11.571 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:11.571 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54716
+2022-11-17 10:50:11.572 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54718
+2022-11-17 10:50:11.653 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:11.653 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:11.654 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54718
+2022-11-17 10:50:12.218 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54724
+2022-11-17 10:50:12.228 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54725
+2022-11-17 10:50:12.398 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: rr6.sn-n8v7znz7.googlevideo.com./74.125.111.214:443
+2022-11-17 10:50:12.403 [main] ERROR Proxy.run(Proxy.java:58) - java.nio.channels.ClosedChannelException
+2022-11-17 10:50:12.403 [main] ERROR Proxy.closeConnection(Proxy.java:92) - java.nio.channels.ClosedChannelException
+2022-11-17 10:50:14.534 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54736
+2022-11-17 10:50:14.535 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: clients4.google.com
+2022-11-17 10:50:14.588 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - clients4.google.com. resolved
+2022-11-17 10:50:16.944 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54750
+2022-11-17 10:50:21.042 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: g.geogslb.com./37.252.171.149:443
+2022-11-17 10:50:21.043 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54684
+2022-11-17 10:50:40.491 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54845
+2022-11-17 10:50:40.495 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54847
+2022-11-17 10:50:40.495 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54848
+2022-11-17 10:50:40.496 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54849
+2022-11-17 10:50:40.498 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54852
+2022-11-17 10:50:40.499 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54854
+2022-11-17 10:50:40.568 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:40.569 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:40.569 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54854
+2022-11-17 10:50:40.569 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:40.569 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:40.569 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54845
+2022-11-17 10:50:40.569 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:40.570 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:40.570 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54848
+2022-11-17 10:50:40.570 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:40.570 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:40.570 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54849
+2022-11-17 10:50:40.570 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:40.571 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:40.571 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54852
+2022-11-17 10:50:40.571 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:40.571 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:40.571 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54847
+2022-11-17 10:50:40.572 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54857
+2022-11-17 10:50:40.573 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54858
+2022-11-17 10:50:40.573 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54859
+2022-11-17 10:50:40.573 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54860
+2022-11-17 10:50:40.574 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54861
+2022-11-17 10:50:40.574 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54862
+2022-11-17 10:50:40.633 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:40.634 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:40.634 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54857
+2022-11-17 10:50:40.634 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:40.635 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:40.635 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54858
+2022-11-17 10:50:40.635 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:40.635 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:40.635 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54860
+2022-11-17 10:50:40.636 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54869
+2022-11-17 10:50:40.638 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:40.639 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:40.639 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54859
+2022-11-17 10:50:40.639 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:40.639 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:40.639 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54862
+2022-11-17 10:50:40.640 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:40.640 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:40.640 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54861
+2022-11-17 10:50:40.698 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:40.698 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:40.698 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54869
+2022-11-17 10:50:40.699 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54871
+2022-11-17 10:50:40.764 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:50:40.764 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:50:40.764 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54871
+2022-11-17 10:50:42.393 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54881
+2022-11-17 10:50:42.735 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54883
+2022-11-17 10:50:53.217 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: g.geogslb.com./37.252.171.84:443
+2022-11-17 10:50:53.217 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54883
+2022-11-17 10:51:02.268 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54965
+2022-11-17 10:51:02.268 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54966
+2022-11-17 10:51:02.269 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: translate.yandex.ru
+2022-11-17 10:51:02.269 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: yastatic.net
+2022-11-17 10:51:02.279 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - yastatic.net. resolved
+2022-11-17 10:51:02.281 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - translate.yandex.ru. resolved
+2022-11-17 10:51:02.686 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54969
+2022-11-17 10:51:02.866 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:54971
+2022-11-17 10:51:02.866 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: yandex.ru
+2022-11-17 10:51:02.869 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - yandex.ru. resolved
+2022-11-17 10:51:10.290 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:55005
+2022-11-17 10:51:12.962 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:51:12.963 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: /[0:0:0:0:0:0:0:1]:54881
+2022-11-17 10:51:12.964 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: gateway.fe.apple-dns.net./17.248.180.211:443
+2022-11-17 10:51:14.915 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /87.240.129.132:443
+2022-11-17 10:51:14.915 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:54621
+2022-11-17 10:51:16.847 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:55031
+2022-11-17 10:51:17.790 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:55037
+2022-11-17 10:51:17.853 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /[0:0:0:0:0:0:0:1]:54651
+2022-11-17 10:51:17.854 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /64.233.163.94:443
+2022-11-17 10:51:19.363 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:55047
+2022-11-17 10:51:19.363 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: z8s4n2jmrsl0.statuspage.io
+2022-11-17 10:51:19.911 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:55048
+2022-11-17 10:51:19.912 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:55049
+2022-11-17 10:51:19.914 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:55050
+2022-11-17 10:51:19.915 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:55052
+2022-11-17 10:51:19.917 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:55055
+2022-11-17 10:51:19.920 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:55057
+2022-11-17 10:51:19.976 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:51:19.977 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:51:19.977 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:55048
+2022-11-17 10:51:19.977 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:55060
+2022-11-17 10:51:19.981 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:51:19.981 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:51:19.981 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:55050
+2022-11-17 10:51:19.982 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:55062
+2022-11-17 10:51:19.982 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /[0:0:0:0:0:0:0:1]:55037
+2022-11-17 10:51:19.983 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /64.233.163.94:443
+2022-11-17 10:51:19.983 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:51:19.983 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:51:19.984 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:55049
+2022-11-17 10:51:19.984 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:51:19.984 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:51:19.984 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:55052
+2022-11-17 10:51:19.985 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:51:19.985 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:51:19.985 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:55055
+2022-11-17 10:51:19.985 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:55064
+2022-11-17 10:51:19.985 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:55065
+2022-11-17 10:51:19.986 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:55066
+2022-11-17 10:51:19.986 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:51:19.986 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:51:19.986 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:55057
+2022-11-17 10:51:19.987 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:55067
+2022-11-17 10:51:20.043 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:51:20.044 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:51:20.044 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:55060
+2022-11-17 10:51:20.044 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:55072
+2022-11-17 10:51:20.048 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:51:20.048 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:51:20.049 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:55062
+2022-11-17 10:51:20.052 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:51:20.052 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:51:20.052 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:55066
+2022-11-17 10:51:20.052 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:51:20.052 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:51:20.053 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:55067
+2022-11-17 10:51:20.053 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:51:20.053 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:51:20.053 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:55065
+2022-11-17 10:51:20.053 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:51:20.054 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:51:20.054 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:55064
+2022-11-17 10:51:20.107 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:51:20.121 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:51:20.122 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:55072
+2022-11-17 10:51:20.122 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:55074
+2022-11-17 10:51:20.183 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 10:51:20.184 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./74.125.205.198:443
+2022-11-17 10:51:20.184 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:55074
+2022-11-17 10:51:20.640 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:55080
+2022-11-17 10:51:20.652 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: z8s4n2jmrsl0.statuspage.io
+2022-11-17 10:51:20.658 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - z8s4n2jmrsl0.statuspage.io. resolved
+2022-11-17 10:51:23.866 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /[0:0:0:0:0:0:0:1]:54496
+2022-11-17 10:51:23.866 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /142.251.1.94:443
+2022-11-17 10:51:23.868 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /[0:0:0:0:0:0:0:1]:54475
+2022-11-17 10:51:23.868 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /74.125.131.119:443
+2022-11-17 10:51:23.871 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /[0:0:0:0:0:0:0:1]:54543
+2022-11-17 10:51:23.871 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /64.233.162.190:443
+2022-11-17 10:51:23.871 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /[0:0:0:0:0:0:0:1]:54534
+2022-11-17 10:51:23.871 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /108.177.14.148:443
+2022-11-17 10:51:23.874 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /[0:0:0:0:0:0:0:1]:54533
+2022-11-17 10:51:23.874 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /64.233.165.95:443
+2022-11-17 10:51:23.876 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /[0:0:0:0:0:0:0:1]:54502
+2022-11-17 10:51:23.876 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /64.233.164.105:443
+2022-11-17 10:51:23.876 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /[0:0:0:0:0:0:0:1]:54503
+2022-11-17 10:51:23.876 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /64.233.165.94:443
+2022-11-17 10:51:26.398 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:55106
+2022-11-17 10:51:27.973 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: g.geogslb.com./37.252.171.149:443
+2022-11-17 10:51:27.973 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:55031
+2022-11-17 12:42:37.725 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59479
+2022-11-17 12:42:37.733 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: aax-dtb-cf.amazon-adsystem.com
+2022-11-17 12:42:37.832 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59480
+2022-11-17 12:42:37.835 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59481
+2022-11-17 12:42:37.837 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - aax-dtb-cf.amazon-adsystem.com. resolved
+2022-11-17 12:42:37.943 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59482
+2022-11-17 12:42:37.945 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59483
+2022-11-17 12:42:37.948 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59484
+2022-11-17 12:42:37.949 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: tlx.3lift.com
+2022-11-17 12:42:37.950 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: c.4dex.io
+2022-11-17 12:42:37.951 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: htlb.casalemedia.com
+2022-11-17 12:42:37.952 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: researchgate-d.openx.net
+2022-11-17 12:42:37.953 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: mp.4dex.io
+2022-11-17 12:42:37.961 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - htlb.casalemedia.com. resolved
+2022-11-17 12:42:37.969 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - mp.4dex.io. resolved
+2022-11-17 12:42:38.018 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - c.4dex.io. resolved
+2022-11-17 12:42:38.021 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - researchgate-d.openx.net. resolved
+2022-11-17 12:42:38.022 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - tlx.3lift.com. resolved
+2022-11-17 12:42:38.114 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59495
+2022-11-17 12:42:38.116 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59496
+2022-11-17 12:42:38.117 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: ib.adnxs.com
+2022-11-17 12:42:38.117 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: hbopenbid.pubmatic.com
+2022-11-17 12:42:38.121 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - ib.adnxs.com. resolved
+2022-11-17 12:42:39.397 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - hbopenbid.pubmatic.com. resolved
+2022-11-17 12:42:39.464 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59497
+2022-11-17 12:42:39.465 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59502
+2022-11-17 12:42:39.469 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: www.researchgate.net
+2022-11-17 12:42:39.469 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: meet.google.com
+2022-11-17 12:42:39.474 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - meet.google.com. resolved
+2022-11-17 12:42:39.476 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - www.researchgate.net. resolved
+2022-11-17 12:42:39.658 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59507
+2022-11-17 12:42:39.658 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: p23-caldav.icloud.com
+2022-11-17 12:42:39.662 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - p23-caldav.icloud.com. resolved
+2022-11-17 12:42:40.006 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59508
+2022-11-17 12:42:40.009 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: securepubads.g.doubleclick.net
+2022-11-17 12:42:40.018 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - securepubads.g.doubleclick.net. resolved
+2022-11-17 12:42:41.707 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59519
+2022-11-17 12:42:41.707 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: www.drom.ru
+2022-11-17 12:42:42.498 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59524
+2022-11-17 12:42:42.499 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: t.pubmatic.com
+2022-11-17 12:42:42.503 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - t.pubmatic.com. resolved
+2022-11-17 12:42:44.999 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59539
+2022-11-17 12:42:45.000 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: www.drom.ru
+2022-11-17 12:42:45.005 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - www.drom.ru. resolved
+2022-11-17 12:42:45.492 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59541
+2022-11-17 12:42:45.492 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59542
+2022-11-17 12:42:45.493 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59543
+2022-11-17 12:42:45.493 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59544
+2022-11-17 12:42:45.494 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59545
+2022-11-17 12:42:45.494 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59546
+2022-11-17 12:42:45.495 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59547
+2022-11-17 12:42:45.495 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59548
+2022-11-17 12:42:45.496 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59549
+2022-11-17 12:42:45.496 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59550
+2022-11-17 12:42:45.497 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59551
+2022-11-17 12:42:45.497 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59552
+2022-11-17 12:42:45.498 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59553
+2022-11-17 12:42:45.500 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: s.drom.ru
+2022-11-17 12:42:45.501 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: cshi.ru
+2022-11-17 12:42:45.502 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: googleads.g.doubleclick.net
+2022-11-17 12:42:45.502 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: www.googletagmanager.com
+2022-11-17 12:42:45.502 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: www.googleadservices.com
+2022-11-17 12:42:45.503 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: c.rdrom.ru
+2022-11-17 12:42:45.503 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: www.google-analytics.com
+2022-11-17 12:42:45.503 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: cszz.ru
+2022-11-17 12:42:45.504 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: www.farpost.ru
+2022-11-17 12:42:45.504 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: s.auto.drom.ru
+2022-11-17 12:42:45.504 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: counter.yadro.ru
+2022-11-17 12:42:45.505 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: yummy.drom.ru
+2022-11-17 12:42:45.505 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - googleads.g.doubleclick.net. resolved
+2022-11-17 12:42:45.507 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - www.googletagmanager.com. resolved
+2022-11-17 12:42:45.510 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - www.googleadservices.com. resolved
+2022-11-17 12:42:45.510 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - www.google-analytics.com. resolved
+2022-11-17 12:42:45.511 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - s.auto.drom.ru. resolved
+2022-11-17 12:42:45.512 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - counter.yadro.ru. resolved
+2022-11-17 12:42:45.513 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - s.drom.ru. resolved
+2022-11-17 12:42:45.521 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - yummy.drom.ru. resolved
+2022-11-17 12:42:45.521 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - cshi.ru. resolved
+2022-11-17 12:42:45.522 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - cszz.ru. resolved
+2022-11-17 12:42:45.523 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - www.farpost.ru. resolved
+2022-11-17 12:42:45.530 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - c.rdrom.ru. resolved
+2022-11-17 12:42:45.652 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59567
+2022-11-17 12:42:45.653 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: r3.o.lencr.org
+2022-11-17 12:42:45.656 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - r3.o.lencr.org. resolved
+2022-11-17 12:42:46.218 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59573
+2022-11-17 12:42:46.220 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59574
+2022-11-17 12:42:46.221 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: adviser.bs-dante.ru
+2022-11-17 12:42:46.221 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: bs-dante.ru
+2022-11-17 12:42:46.229 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - bs-dante.ru. resolved
+2022-11-17 12:42:46.230 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - adviser.bs-dante.ru. resolved
+2022-11-17 12:42:46.242 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59577
+2022-11-17 12:42:46.259 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59579
+2022-11-17 12:42:46.259 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: stats.g.doubleclick.net
+2022-11-17 12:42:46.263 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - stats.g.doubleclick.net. resolved
+2022-11-17 12:42:46.693 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59581
+2022-11-17 12:42:46.693 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59582
+2022-11-17 12:42:46.694 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: www.google.com
+2022-11-17 12:42:46.694 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: www.google.ru
+2022-11-17 12:42:46.867 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - www.google.com. resolved
+2022-11-17 12:42:46.868 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - www.google.ru. resolved
+2022-11-17 12:42:50.454 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: g.geogslb.com./37.252.171.149:443
+2022-11-17 12:42:50.454 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59495
+2022-11-17 12:42:50.610 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /185.65.149.115:443
+2022-11-17 12:42:50.610 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59552
+2022-11-17 12:42:56.914 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59625
+2022-11-17 12:42:56.915 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: im.vk.com
+2022-11-17 12:42:56.920 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - im.vk.com. resolved
+2022-11-17 12:42:58.000 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59631
+2022-11-17 12:42:58.000 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: www.youtube.com
+2022-11-17 12:42:58.004 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - www.youtube.com. resolved
+2022-11-17 12:42:58.469 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59637
+2022-11-17 12:42:58.470 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: i.ytimg.com
+2022-11-17 12:42:58.472 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - i.ytimg.com. resolved
+2022-11-17 12:42:58.600 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59639
+2022-11-17 12:42:58.600 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: ocsp.pki.goog
+2022-11-17 12:42:58.604 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - ocsp.pki.goog. resolved
+2022-11-17 12:42:58.887 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /80.92.164.34:443
+2022-11-17 12:42:58.887 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59573
+2022-11-17 12:42:59.320 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59645
+2022-11-17 12:42:59.698 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59647
+2022-11-17 12:43:00.260 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59653
+2022-11-17 12:43:00.599 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /[0:0:0:0:0:0:0:1]:59653
+2022-11-17 12:43:00.599 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: youtube-ui.l.google.com./64.233.162.198:443
+2022-11-17 12:43:00.795 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59655
+2022-11-17 12:43:00.796 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: yt3.ggpht.com
+2022-11-17 12:43:00.799 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - yt3.ggpht.com. resolved
+2022-11-17 12:43:00.870 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 12:43:00.871 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.162.198:443
+2022-11-17 12:43:00.872 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59655
+2022-11-17 12:43:00.878 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59657
+2022-11-17 12:43:00.886 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59659
+2022-11-17 12:43:00.946 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 12:43:00.946 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.162.198:443
+2022-11-17 12:43:00.947 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59657
+2022-11-17 12:43:00.953 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59661
+2022-11-17 12:43:01.020 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 12:43:01.020 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.162.198:443
+2022-11-17 12:43:01.020 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59661
+2022-11-17 12:43:01.024 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59663
+2022-11-17 12:43:01.094 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 12:43:01.094 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.162.198:443
+2022-11-17 12:43:01.094 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59663
+2022-11-17 12:43:01.097 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59665
+2022-11-17 12:43:01.165 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 12:43:01.166 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.162.198:443
+2022-11-17 12:43:01.167 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59665
+2022-11-17 12:43:01.171 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59671
+2022-11-17 12:43:01.241 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 12:43:01.241 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.162.198:443
+2022-11-17 12:43:01.242 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59671
+2022-11-17 12:43:01.250 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59673
+2022-11-17 12:43:01.289 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59675
+2022-11-17 12:43:01.289 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: www.gstatic.com
+2022-11-17 12:43:01.293 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - www.gstatic.com. resolved
+2022-11-17 12:43:01.321 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 12:43:01.322 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.162.198:443
+2022-11-17 12:43:01.322 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59673
+2022-11-17 12:43:01.325 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59677
+2022-11-17 12:43:01.394 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 12:43:01.394 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.162.198:443
+2022-11-17 12:43:01.394 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59677
+2022-11-17 12:43:01.397 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59679
+2022-11-17 12:43:01.462 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 12:43:01.462 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.162.198:443
+2022-11-17 12:43:01.463 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59679
+2022-11-17 12:43:01.482 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59681
+2022-11-17 12:43:01.517 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59683
+2022-11-17 12:43:01.584 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 12:43:01.584 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.162.198:443
+2022-11-17 12:43:01.584 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59683
+2022-11-17 12:43:01.588 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59685
+2022-11-17 12:43:01.661 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 12:43:01.661 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.162.198:443
+2022-11-17 12:43:01.662 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59685
+2022-11-17 12:43:01.667 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59687
+2022-11-17 12:43:01.732 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 12:43:01.733 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.162.198:443
+2022-11-17 12:43:01.733 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59687
+2022-11-17 12:43:01.736 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59689
+2022-11-17 12:43:01.803 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 12:43:01.804 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.162.198:443
+2022-11-17 12:43:01.804 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59689
+2022-11-17 12:43:01.808 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59691
+2022-11-17 12:43:01.875 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 12:43:01.876 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.162.198:443
+2022-11-17 12:43:01.877 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59691
+2022-11-17 12:43:01.887 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59693
+2022-11-17 12:43:01.956 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 12:43:01.956 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.162.198:443
+2022-11-17 12:43:01.956 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59693
+2022-11-17 12:43:01.960 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59695
+2022-11-17 12:43:02.025 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 12:43:02.026 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.162.198:443
+2022-11-17 12:43:02.026 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59695
+2022-11-17 12:43:02.029 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59697
+2022-11-17 12:43:02.094 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 12:43:02.096 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.162.198:443
+2022-11-17 12:43:02.098 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59697
+2022-11-17 12:43:02.105 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59699
+2022-11-17 12:43:02.176 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 12:43:02.177 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.162.198:443
+2022-11-17 12:43:02.178 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59699
+2022-11-17 12:43:02.215 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59705
+2022-11-17 12:43:02.283 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 12:43:02.283 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.162.198:443
+2022-11-17 12:43:02.283 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59705
+2022-11-17 12:43:02.286 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59707
+2022-11-17 12:43:02.354 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 12:43:02.354 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.162.198:443
+2022-11-17 12:43:02.355 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59707
+2022-11-17 12:43:02.365 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59709
+2022-11-17 12:43:02.435 [main] ERROR Proxy.run(Proxy.java:58) - java.net.SocketException: Connection reset
+2022-11-17 12:43:02.436 [main] DEBUG Proxy.closeConnection(Proxy.java:87) - Socket closed: wide-youtube.l.google.com./64.233.162.198:443
+2022-11-17 12:43:02.436 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59709
+2022-11-17 12:43:02.721 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: /88.212.202.52:443
+2022-11-17 12:43:02.722 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59551
+2022-11-17 12:43:02.913 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59711
+2022-11-17 12:43:02.913 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: jnn-pa.googleapis.com
+2022-11-17 12:43:02.916 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59712
+2022-11-17 12:43:02.917 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - jnn-pa.googleapis.com. resolved
+2022-11-17 12:43:02.917 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: static.doubleclick.net
+2022-11-17 12:43:02.923 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - static.doubleclick.net. resolved
+2022-11-17 12:43:06.623 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59731
+2022-11-17 12:43:06.623 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: queuev4.vk.com
+2022-11-17 12:43:06.627 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - queuev4.vk.com. resolved
+2022-11-17 12:43:10.266 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59749
+2022-11-17 12:43:10.485 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59751
+2022-11-17 12:43:10.486 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: gateway.icloud.com
+2022-11-17 12:43:10.491 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - gateway.icloud.com. resolved
+2022-11-17 12:43:17.411 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: drom.ru./185.65.149.115:443
+2022-11-17 12:43:17.411 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59539
+2022-11-17 12:43:17.413 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: drom.ru./185.65.149.115:443
+2022-11-17 12:43:17.413 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59541
+2022-11-17 12:43:17.434 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: drom.ru./185.65.149.115:443
+2022-11-17 12:43:17.435 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59577
+2022-11-17 12:43:20.431 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59793
+2022-11-17 12:43:20.431 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: itunes.apple.com
+2022-11-17 12:43:20.435 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - itunes.apple.com. resolved
+2022-11-17 12:43:20.696 [main] DEBUG handlers.Handler.checkConnectionClose(Handler.java:73) - Socket closed: g.geogslb.com./37.252.171.149:443
+2022-11-17 12:43:20.697 [main] DEBUG models.Connection.closeAssociate(Connection.java:37) - Socket closed: /[0:0:0:0:0:0:0:1]:59749
+2022-11-17 12:43:25.713 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59815
+2022-11-17 12:43:33.200 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59845
+2022-11-17 12:43:33.207 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: ssl.gstatic.com
+2022-11-17 12:43:33.211 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - ssl.gstatic.com. resolved
+2022-11-17 12:43:33.550 [main] DEBUG handlers.AcceptHandler.handle(AcceptHandler.java:31) - New connection: /[0:0:0:0:0:0:0:1]:59851
+2022-11-17 12:43:33.551 [main] DEBUG models.DnsService.resolveName(DnsService.java:71) - New domain name to resolve: play.google.com
+2022-11-17 12:43:33.555 [main] DEBUG models.DnsService$1.handle(DnsService.java:106) - play.google.com. resolved
